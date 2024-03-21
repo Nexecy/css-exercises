@@ -1,0 +1,14 @@
+.monochrome, .aesthetic {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}   
+
+.monochrome {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.aesthetic {
+    background-color: yellow;
+}
